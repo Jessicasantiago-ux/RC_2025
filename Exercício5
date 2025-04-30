@@ -1,0 +1,26 @@
+1- [ tablet ] ----- ( wifi ) ----- [ impressora ]
+
+2- [PC1] --- | 
+   [PC2] --- | ---( swtich) ----[edificio de aulas]
+   [PC3] --- |
+
+3-
+  [edificio1] ------------------|
+      |                         |
+      |                         |
+      |                         |
+( fibra óptica )                |
+      |                         |
+      |                         |
+      |                         |
+  [edificio2]             (fibra óptica)
+      |                         |
+      |                         |
+      |                         |
+( fibra óptica )                |
+      |                         |
+      |                         |
+      |                         |
+  [edificio3] ------------------|
+
+fiz com o João Caldeira
