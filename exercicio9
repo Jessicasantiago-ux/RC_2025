@@ -1,3 +1,7 @@
 1- Acontece que todos os computadores recebem o mesmo dados da mesma forma, isso significa que os computadores ficam com acesso á dados dos outros computadores.
 2- Os dados são enviados com mais eficiência e menos colesões.
 3- desvatagem é que o hub é menos seguro, não tem desempenho, e tem colesões de rede , e a vantagem é que hub é mais barrato e simples.
+
+ Correção 
+2- Envia só para o MAC selecionado.
+3- Desvantagens dos switch é que ele é mais carro e problemas de disponibilidade e vantagem é o aumento de desempenho, e permite a comunicação entre do diferente.
