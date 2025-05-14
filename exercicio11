@@ -1,0 +1,11 @@
+função                            Bridge          switch          Router   
+
+Liga segmentos da mesma rede        S               S              X
+
+Emcaminha por endereço MAC          S               S              X
+
+Emcaminha por endereço IP           X               X              S
+
+Acede á internet                    X               X              S
+
+Trabalha em que camada              CM2             CM2            CM3
