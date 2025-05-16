@@ -3,3 +3,11 @@ Função                              Gateway                                   
 interliga redes diferentes          sim ele interliga diferentes protocolos de router         sim diferentes protocolos diferentes protocolos como IP , mas não interliga os mesmos protocolos que Gateway   
 Traduz protocolos                   Sim                                                       Não
 Emcaminha tráfego                   Não                                                       Sim
+
+
+
+Correção 
+
+Gateway tambem utiliza protocol iguais
+o router o router utiliza apenas protocolos de Ip
+o Gteway emcaminha o tráfego
