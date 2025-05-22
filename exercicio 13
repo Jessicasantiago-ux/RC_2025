@@ -1,0 +1,41 @@
+1- As setes Camadas pelas camadas pelas ordens crecentes São: 1 Física, 2 Ligação de dados, 3 Rede, 4 Transporte, 5 Sessão, 6 Apresentação, 7 Aplicação  
+
+2.1- Camada 1 - O seu papel é enviar bits através dos meios físicos  como fios de cabo.
+
+2.1- Camada 2 - O seu papel é transmissão de dados entre dois dispositivos da mesma rede.
+
+2.1- Camada 3 - Ele é responsável pelo endereçamento lógico ( IPs) e pelo emcacaminhamento dos pacotes entre redes.
+
+2.1- Camada 4 - O seu papel é garante que os dados chegam corretamente na ordem certa.
+
+2.1- Camada 5 - Ele controla o quando que inicia , manutenção e fim das sessões de comunicações.
+
+2.1- Camada 6 - O sue papel é garante que os dados sejam compreensivos em ambos lados, ela apresenta dados e faz a tradução, encriptação e compressão de dados .
+
+2.1- Camada 7 - E interage diretamente com os utilizados e com os programas(software) quw necessitam de enviar e receber dados.
+
+2.2- 
+Camada Física - Problemas na camada física incluem cabos danificados, conexões frouxas, ou interferências eletromagnéticas. 
+
+Camada Ligação de dados- Problemas na camada de Ligação de dados podem incluir endereço MAC duplicado, erros de transmissão, ou problemas com o protocolo Spanning Tree (STP
+
+Camada de Rede - Problemas na camada de rede incluem endereçamento IP incorreto, problemas com roteadores, ou problemas de congestionamento de rede. 
+
+Camada de transporte- Problemas na camada de transporte podem envolver portos TCP/UDP incorretos, congestionamento de rede ou falhas na entrega de dados. 
+
+Camada de Sessão- Problemas na camada de sessão incluem falhas na autenticação, sessão interrompida, ou problemas de sincronização de sessões. 
+
+Camada de Apresentação- Problemas na camada de apresentação podem incluir erros de codificação, problemas com criptografia, ou incompatibilidade de formatos de dados. 
+
+Camada de Aplicação- Problemas na camada de aplicação incluem falhas em aplicativos específicos, erros de protocolo, ou problemas de compatibilidade. 
+
+2.3- 
+Camada 1 - A ferramanta é Testes de cabos.
+Camada 2 - É ferramenta como ping e o traceroute.
+Camada 3 - Feramentas sniffers.
+Camada 4 - Feramentas como Wireshark.
+Camada 5 - Ferramentas como debug.
+Camada 6 - Ferramentas debug e análise de tráfego, juntamente com a compreensão dos protocolos .
+Camada 7 - Ferramentas como análise do tráfego de rede, juntamente com testes específicos do aplicativo.
+
+
