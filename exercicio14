@@ -1,0 +1,59 @@
+1- 1  Acesso á rede, 2 Internet, 3 Transporte, 4 Aplicação. 
+Acesso á rede o seu papel é liga redes atuais 
+Internet o seu papel encaminhar o endereço dos pacotes entre redes
+Transporte o seu papel é garante a entrada corecta e ordenada dos dados entre origem e destino
+Aplicação o seu papel é serviços de rede
+
+2.1 Na camada de Aplicação está sendo utilizado o protocolo SMTP.
+     Na camada de Transporte está sendo utilizado o protocolo TCP.
+     Na camada de Rede está sendo utilizado o protocolo  IP.
+    Na camada de Acesso á rede está sendo utilizado o protocolo Ethernet / Wi-Fi.
+
+
+2.2 Aplicação: Exemlo
+ Usado para enviar o e-mail do servidor do remetente para o servidor do destinatário
+
+   Transporte: Exemplo
+ Garante a entrega confiável dos dados, dividindo-os em pacotes e garantindo que cheguem na ordem correta e sem perda de informação.
+
+   Rede: Exemplo  
+ Responsável por endereçar os pacotes de dados e roteá-los pela rede, garantindo que cheguem ao destino correto. 
+
+   Acesso á rede: Exemplo
+    Responsáveis pela transmissão física dos dados através da rede. 
+
+
+
+Camada do modelo TCP/IP  |  Função na comunicação entre a Ana e a maria  |  Protocolo(S) Possível(is) |   Unidade de identificação
+                         |                                               |                            |
+Aplicação                |   Interface entre o utilizador e a rede       |   HTTP, DNS, FTP           |      Mensagm       
+Transporte               |   garantia de entrega, controloe de fluxo     |   TCP, UDP                 |      Segmento       
+Internet                 |   Emcaminhamento e endereçamento de pacotes   |   IP , ICMP                |      Pacote       
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
