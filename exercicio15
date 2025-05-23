@@ -1,0 +1,7 @@
+Protocolo   |   Função principal                               |  Camada do modelo TCP/IP |  Exemplo de utilização |
+HTTPS       |  assegura a segurança na comunicação             |     Aplicação            |  HTTPS versão segura   |
+TCP         |  garante uma ligação fiável                      |     Transporte           |  Web(HTTP)             |
+DNS         | permite a tradução dos do                        |     Aplicação            |  Site Google           |
+ICMP        |  diagnostico e controle de erros                 |     Internet             |  Comando ping          |
+FTP         | transfere o ficheiro entre o cliente e o servidor|     Aplicação            |  Upload                |
+____________|__________________________________________________|__________________________|________________________|
