@@ -4,7 +4,7 @@
 |_______________|______________________________
 |150.100.50.25  |Classe B 
 |_______________|______________________________
-|127.0.0.1      | Classe A                       LoopBack
+|127.0.0.1      | Classe A                       
 |_______________|______________________________ 
 |250.10.55.5    | Classe E 
 |_______________|______________________________
@@ -14,3 +14,15 @@
 |_______________|______________________________
 |172.16.8.100   | Classe B
 |_______________|______________________________
+
+Correção 
+
+1. Porque o primeiro octet é 10
+2. Porque o primeiro octet é 150
+3. Porque o primeiro octet é 127
+4. Porque o primeiro octet é 250
+5. Porque o primeiro octet é 224
+6. Porque o primeiro octet é 192
+7. Porque o primeiro octet é 172
+
+127.0.0.1 não tem classe porque é reservado para loopBackk
